@@ -12,7 +12,7 @@ def welcome_message():
     Returns: None
     """
     #------------------------
-    # Add your code here
+    print("Startdust by Zayn")
     #------------------------
     raise NotImplementedError("This function is not implemented yet.")
     #------------------------
